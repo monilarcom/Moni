@@ -60,7 +60,7 @@ Please submit bugs and feature requests as an issue to the [Monilar Repository][
 
 ## Contributors and Pull Requests ##
 
-Contributions are warmly very welcomed but we ask you to read the existing code to see how it is formatted, commented and ensure contributions match the existing style. All code submissions must include accompanying tests. Please see the [contributor guide lines][7]. All accepted pull requests will get a 2mo free Prime subscription on QuantConnect. Once your pull-request has been merged write to us at support@quantconnect.com with a link to your PR to claim your free live trading. QC <3 Open Source.
+Contributions are warmly very welcomed but we ask you to read the existing code to see how it is formatted, commented and ensure contributions match the existing style. All code submissions must include accompanying tests. You can contact us through support@monilar.com anytime if you have any questions on mind.
 
 A huge thank-you all our contributors!
 
