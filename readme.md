@@ -1,4 +1,4 @@
-![alt tag](https://cdn.quantconnect.com/web/i/20180601-1615-Monilar-logo-small.png)
+![alt tag](https://monilar.com/assets/logos/logo_white.svg)
 =========
 
 [![Build Status](https://github.com/monilarcom/Moni/workflows/Build%20%26%20Test%20Monilar/badge.svg)](https://github.com/monilarcom/Moni/actions?query=workflow%3A%22Build%20%26%20Test%20Monilar%22) &nbsp;&nbsp;&nbsp; [![Regression Tests](https://github.com/monilarcom/Moni/workflows/Regression%20Tests/badge.svg)](https://github.com/monilarcom/Moni/actions?query=workflow%3A%22Regression%20Tests%22) &nbsp;&nbsp;&nbsp; [![Monilar Forum](https://img.shields.io/badge/debug-Monilar%20Forum-53c82b.svg)](https://www.quantconnect.com/forum/discussions/1/Monilar) &nbsp;&nbsp;&nbsp; [![Discord Chat](https://img.shields.io/badge/chat-Discord-53c82b.svg)](https://www.quantconnect.com/discord)
