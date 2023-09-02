@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://monilar.com/assets/logos/logo_white.svg" />
+  <img src="https://monilar.com/assets/logos/logo_white-50h.svg" />
 </p>
+
 
 [![Website](https://img.shields.io/badge/Website-8A2BE2)](https://monilar.com) &nbsp;&nbsp;&nbsp; [![Telegram Announcements](https://img.shields.io/badge/Telegram-Announcements-8A2BE2)](https://t.me/monilarcom) &nbsp;&nbsp;&nbsp; [![Telegram Support](https://img.shields.io/badge/Telegram-Support-8A2BE2)](https://t.me/monilarcontact)
 
