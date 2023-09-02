@@ -3,7 +3,7 @@
 </p>
 =========
 
-[![Build Status](https://github.com/monilarcom/Moni/workflows/Build%20%26%20Test%20Monilar/badge.svg)](https://github.com/monilarcom/Moni/actions?query=workflow%3A%22Build%20%26%20Test%20Monilar%22) &nbsp;&nbsp;&nbsp; [![Regression Tests](https://github.com/monilarcom/Moni/workflows/Regression%20Tests/badge.svg)](https://github.com/monilarcom/Moni/actions?query=workflow%3A%22Regression%20Tests%22) &nbsp;&nbsp;&nbsp; [![Monilar Forum](https://img.shields.io/badge/debug-Monilar%20Forum-53c82b.svg)](https://www.quantconnect.com/forum/discussions/1/Monilar) &nbsp;&nbsp;&nbsp; [![Discord Chat](https://img.shields.io/badge/chat-Discord-53c82b.svg)](https://www.quantconnect.com/discord)
+[![Website](https://img.shields.io/badge/Website-8A2BE2)](https://monilar.com)[![Telegram Announcements](https://img.shields.io/badge/Telegram-Announcements-8A2BE2)](https://t.me/monilarcom) &nbsp;&nbsp;&nbsp; [![Telegram Support](https://img.shields.io/badge/Telegram-Support-8A2BE2)](https://t.me/monilarcontact)
 
 
 [Monilar Home][1] | [Documentation][2] | [Download Zip][3]
