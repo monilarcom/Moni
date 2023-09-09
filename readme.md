@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/Website-8A2BE2)](https://monilar.com) &nbsp;&nbsp;&nbsp; [![Telegram Announcements](https://img.shields.io/badge/Telegram-Announcements-8A2BE2)](https://t.me/monilarcom) &nbsp;&nbsp;&nbsp; [![Telegram Support](https://img.shields.io/badge/Telegram-Support-8A2BE2)](https://t.me/monilarsupport)
 
-[Monilar Home][1] | [Documentation][2] | [Download Zip][3]
+[Monilar Web][1] | [Documentation][2] | [Download Zip][3]
  
 ----------
 
