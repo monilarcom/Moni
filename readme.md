@@ -71,7 +71,7 @@ Ryan H, Pravin B, Jimmie B, Nick C, Sam C, Mattias S, Michael H, Mark M, Madhan,
 
 
   [1]: https://monilar.com/ "Monilar Open Source Home Page"
-  [2]: https://github.com/QuantConnect/Lean/blob/master/readme.md/ "Monilar Documentation"
+  [2]: https://github.com/monilarcom/Moni/blob/master/readme.md/ "Monilar Documentation"
   [3]: https://github.com/monilarcom/Moni/archive/master.zip
   [4]: https://monilar.com
   [5]: https://github.com/monilarcom/Moni/issues
